@@ -1,0 +1,19 @@
+export const SET_POSTS = 'SET_POSTS';
+export const FETCH_POSTS_FAILED = 'FETCH_POSTS_FAILED';
+export const ADD_FAV= 'ADD_FAV';
+
+export const FETCH_COMMENTS = 'FETCH_COMMENTS';
+export const FETCH_COMMENTS_FAILED = 'FETCH_COMMENTS_FAILED';
+export const ADD_FAV_COMMENTS= 'ADD_FAV_COMMENTS';
+
+
+export const FETCH_ALBUMS = 'FETCH_ALBUMS';
+export const FETCH_ALBUMS_FAILED = 'FETCH_ALBUMS_FAILED';
+export const ADD_FAV_ALBUMS= 'ADD_FAV_ALBUMS';
+
+
+export const FETCH_USERS = 'FETCH_USERS';
+export const FETCH_USERS_FAILED = 'FETCH_USERS_FAILED';
+export const ADD_FAV_USERS= 'ADD_FAV_USERS';
+
+
